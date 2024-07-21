@@ -1,13 +1,13 @@
 Here is my bionic hand project that I have been working on for a few years. I have finished the CAD and the PCB design and below are the images: <p>
 Goals: Build a working prototype; grow my CAD, mechanical, electrical,
-and software design skills. Using Fusion, Unity, Python
+and software design skills. Using Fusion, Unity, Python <p>
 • Research: Studied the bio-mechanics and anatomy of the fingers, palm,
 and wrist to understand their coordinated movement. Should be able to
-preform 6 grip types and thumb-to-fingertip actions.
+preform 6 grip types and thumb-to-fingertip actions.<p>
 • Completed: CAD design for wrist, palm, and finger subsystems. PCB
-design for potentiometers and servo motor connections.
+design for potentiometers and servo motor connections.<p>
 • Future Work: Complete 3D printing and acquire materials. Build and test
-the prototype
+the prototype<p>
 
 CAD
 Fingers
