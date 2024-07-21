@@ -15,7 +15,7 @@ Fingers<p>
 Palm <p>
 ![image](https://github.com/user-attachments/assets/2d17c922-b179-42b3-9479-ca324d7d75c3)
 Wrist <p>
-![image](https://github.com/user-attachments/assets/a2c617e3-58c3-402c-b8ff-97639ade0fe6)
+![image](https://github.com/user-attachments/assets/a2c617e3-58c3-402c-b8ff-97639ade0fe6) <p>
 Full Assembly <p>
 ![image](https://github.com/user-attachments/assets/0d5d9245-6e0e-44a0-8435-3d52d5c4be8c)
 
