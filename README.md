@@ -11,13 +11,13 @@ the prototype<p>
 
 CAD <p>
 Fingers
-![image](https://github.com/user-attachments/assets/1d806dc0-c2ec-4842-92ea-32039a597c9e)
+![image](https://github.com/user-attachments/assets/1d806dc0-c2ec-4842-92ea-32039a597c9e)<p>
 Palm 
-![image](https://github.com/user-attachments/assets/2d17c922-b179-42b3-9479-ca324d7d75c3)
+![image](https://github.com/user-attachments/assets/2d17c922-b179-42b3-9479-ca324d7d75c3)<p>
 Wrist
-![image](https://github.com/user-attachments/assets/a2c617e3-58c3-402c-b8ff-97639ade0fe6)
+![image](https://github.com/user-attachments/assets/a2c617e3-58c3-402c-b8ff-97639ade0fe6)<p>
 Full Assembly
-![image](https://github.com/user-attachments/assets/0d5d9245-6e0e-44a0-8435-3d52d5c4be8c)
+![image](https://github.com/user-attachments/assets/0d5d9245-6e0e-44a0-8435-3d52d5c4be8c)<p>
 
 
 
