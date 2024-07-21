@@ -9,7 +9,7 @@ design for potentiometers and servo motor connections.<p>
 • Future Work: Complete 3D printing and acquire materials. Build and test
 the prototype<p>
 
-CAD
+CAD <p>
 Fingers
 ![image](https://github.com/user-attachments/assets/1d806dc0-c2ec-4842-92ea-32039a597c9e)
 Palm 
