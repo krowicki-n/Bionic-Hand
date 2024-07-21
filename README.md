@@ -1,4 +1,4 @@
-Here is my bionic hand project that I have been working on for a few years. I have finished the CAD and the PCB design and below are the images: 
+Here is my bionic hand project that I have been working on for a few years. I have finished the CAD and the PCB design and below are the images: <p>
 Goals: Build a working prototype; grow my CAD, mechanical, electrical,
 and software design skills. Using Fusion, Unity, Python
 • Research: Studied the bio-mechanics and anatomy of the fingers, palm,
