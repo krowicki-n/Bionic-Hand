@@ -1,13 +1,5 @@
-Here is my bionic hand project that I have been working on for a few years. I have finished the CAD and the PCB design and below are the images: <p>
-Goals: Build a working prototype; grow my CAD, mechanical, electrical,
-and software design skills. Using Fusion, Unity, Python <p>
-• Research: Studied the bio-mechanics and anatomy of the fingers, palm,
-and wrist to understand their coordinated movement. Should be able to
-preform 6 grip types and thumb-to-fingertip actions.<p>
-• Completed: CAD design for wrist, palm, and finger subsystems. PCB
-design for potentiometers and servo motor connections.<p>
-• Future Work: Complete 3D printing and acquire materials. Build and test
-the prototype<p>
+# 💫 About Me:
+This is my bionic hand project that I have been working on for a couple of years. I have completed a lot of the research and theoretical design. I have completed the CAD and PCB design, there are images below:<br>The goals of the project is to build a working prototype; grow my CAD, mechanical, electrical, and software design skills. The frameworks that I am using are Fusion, Unity, and Python.<br>I have studied the bio-mechanics and anatomy of the fingers, palm, and wrist to understand their coordinated movement. Should be able to preform 6 grip types and thumb-to-fingertip actions.<br>The CAD design for wrist, palm, and finger subsystems has been completed as well as the PCB design for the potentiometers and servo motor connections.<br>The future work included the completion of the the 3D printing and acquiring the other parts. <br>
 
 CAD <p>
 Fingers<p>
@@ -18,6 +10,22 @@ Wrist <p>
 ![image](https://github.com/user-attachments/assets/a2c617e3-58c3-402c-b8ff-97639ade0fe6) <p>
 Full Assembly <p>
 ![image](https://github.com/user-attachments/assets/0d5d9245-6e0e-44a0-8435-3d52d5c4be8c)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-krowicki) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krowicki-n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krowicki-n&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krowicki-n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=krowicki-n&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
